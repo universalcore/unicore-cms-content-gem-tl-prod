@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T03:30:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T03:30:18+00:00", 
+  "modified_at": "2015-10-22T10:37:38.686440+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "029e031416124fda9592ddee71dc6a98"
+  ], 
   "id": null, 
   "content": "*Gadis remaja mempunyai sudut pandang yang unik dan bernilai pada dunia, tapi mereka sering diabaikan oleh proses politis. Kami meminta lima gadis remaja yang hadir di Konferensi Remaja Dunia untuk mengatakan kepada pemimpin - pemimpin mereka bagaimana caranya mewujudkan Girl Effect.* \r\n\r\n**Angeli Siladan menulis sebuah memo untuk Benigno 'Noynoy' Aquino III, Presiden Filipina**\r\n\r\nSetelah berpartisipasi dalam hackathon (acara dimana para peserta mencari cara baru untuk mengubah data menjadi alat yang berguna) di Konferensi Remaja Dunia, saya melihat langsung imajinasi yang berlimpah dari gadis - gadis remaja dan kemauan mereka untuk memecahkan masalah menggunakan teknologi.\r\n\r\nSaya meminta Anda untuk memberikan fokus pada pendidikan berkualitas untuk gadis remaja. Saya yakin kalau pendidikan yang tersedia, bisa diakses dan berkualitas akan menjembatani jurang antara gadis remaja dan wanita dan keberhasilan. Pada dasarnya, pendidikan mencakup semua masalah lain yang kita hadapi, termasuk kesehatan dan ekonomi. \u2013 Angeli\r\n\r\n**Pippa Gardner menulis sebuah memo untuk David Cameron, Perdana Menteri Kerajaan Inggris**\r\n\r\nUntuk mendukung berkembangnya gadis remaja, kita perlu menemukan dan mengatasi penyebab ketidaksetaraan. Seandainya kita punya perwakilan yang lebih setara di parlemen, maka saya yakin kalau masalah-masalah gender lainnya, seperti kekerasan rumah tangga dan kebijakan pengasuhan anak, akan mendapatkan perhatian dan pembahasan yang lebih banyak. Jadi di KI, kita perlu melibatkan lebih banyak wanita dalam politik. Kita perlu wanita untuk terlibat, memilih suara, menjadi kandidat, menjadi anggota parlemen, dan ada dalam kabinet. \u2013 Pippa\r\n\r\n**Hilary Clauson menulis sebuah memo kepada Stephen Harper, Perdana Menteri Kanada**\r\n\r\nUntuk mengatasi krisis tenaga kerja usia muda, pendidikan di Kanada harus mendorong wanita untuk masuk ke dalam bidang ilmu pengetahuan dan teknik. Ini akan meningkatkan jumlah pilihan karir yang terbuka bagi gadis remaja dan wanita. Pendidikan formal harus dilengkapi dengan kesempatan pendidikan nonformal, seperti Gerakan Pandu Putri dan Pramuka. Anggota belajar keterampilan kepemimpinan, mengembangkan kemandirian dan aspirasi mereka, dan diberdayakan untuk mengambil peranan aktif dalam masyarakat mereka. \u2013 Hilary\r\n\r\n**Chamathya Fernando menulis sebuah memo kepada Mahinda Rajapaksa, Presiden Sri Lanka**\r\n\r\nSaya mengikuti sesi Keterlibatan Pria di Konferensi Remaja Dunia, dimana kami mencari cara melibatkan pemuda dan pria untuk sama - sama mengusahakan kesetaraan gender. Supaya gadis remaja dan wanita muda mempunyai akses untuk kesempatan sama dan kemampuan untuk membuat keputusan mereka sendiri, penting bagi pemuda dan pria untuk terlibat.\r\n\r\nSaya hendak meminta kepada Anda untuk mempertimbangkan pemberdayaan gadis remaja dan wanita sebagai prioritas kunci dalam agenda pengembangan Sri Lanka. Saya juga hendak meminta kepada Anda untuk mendukung perwakilan perempuan di parlemen supaya memungkinkan gadis remaja dan wanita muda menjadi pemimpin masa depan. Supaya ini terjadi, hukum dan peraturan harus dibuat efektif, efisien, transparan, akurat dan tidak bias. \u2013 Chamathya\r\n\r\n**Elisabeth Chatuwa menulis sebuah memo kepada Peter Mutharika, Presiden Malawi**\r\n\r\nSelama konferensi, saya terus berpikir bagaimana supaya kami bisa mempunyai akses yang sama atas pendidikan berkualitas di Malawi. Saya yakin kalau pemerintah bisa mewujudkan ini dengan membuka lebih banyak sekolah untuk gadis remaja dan menyediakan sumber daya pendidikan gratis untuk mereka. \r\n\r\nLebih jauh lagi, saya sekarang berpikir kalau kurikulum juga harus mencakup pelajaran tentang dampak HIV, pernikahan dini dan kehamilan dini. Ini akan membekali gadis remaja dengan semua informasi penting yang mereka perlukan untuk membuat keputusan besar yang akan mengubah hidup mereka nantinya. \u2013 Elizabeth\r\n\r\n**Apakah kamu punya sebuah pesan untuk pemimpin negaramu? Ceritakan kepada kami dengan mengirimkan surel ke info@girleffect.org!**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 75, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "dearmrpresident", 
   "uuid": "d7513589f0494fc3bd30fbac76feee4b"
