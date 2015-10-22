@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-31T05:11:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-31T05:11:03+00:00", 
+  "modified_at": "2015-10-22T10:37:46.710869+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0b18b6a336db41598fe0acef792b76ed"
+  ], 
   "id": null, 
   "content": "*Hai Kak Maya!*\r\n\r\n*Bisa jelasin nggak, apa sih virus komputer itu? Apa bedanya virus dengan spam? Aku nggak tahu arti dua-duanya, yang aku tahu, semuanya berbahaya!*\r\n\r\n*Manda di Medan*\r\n\r\nHai Manda di Medan,\r\n\r\nVirus komputer bisa menyerang *handphone* atau komputermu kayak penyakit yang menyerang tubuhmu. Virus biasanya menyerang tanpa sepengetahuanmu. Mereka bisa bikin *handphone* dan laptop kamu melakukan hal-hal aneh seperti mati tiba-tiba, atau menyebabkan kehilangan memori gambar, musik dan permainan yang kamu simpan.\r\n\r\nVirus biasanya beredar dari satu komputer ke komputer lain\u2014atau dari satu ponsel ke ponsel lain\u2014dari *file* atau *link*. Cara terbaik untuk mengatasi virus yang bandel yang  bisa merusak ponselmu atau komputer adalah menghindari berbagi *file* secara acak  atau *random* dan membuka *link* dari sumber yang nggak dikenal.\r\n\r\nUntuk komputermu, kamu bisa meng-install anti-virus atau *software* pelindung virus. Kadang pemilik warnet nggak melakukan hal ini makanya komputer-komputer di warnet sering terkena virus. Perlindungan virus juga nggak tersedia buat telepon genggam, jadi ketika kamu menggunakan telepon, coba hindari pengiriman file lewat *Bluetooth* atau membuka *link* yang terlihat mencurigakan.\r\n\r\nKalo kamu menerima sesuatu yang aneh dari teman di Facebook atau dari email, bisa jadi akun mereka dibajak oleh virus. Kalo ada *link* dan pos yang nampak mencurigakan, tanya temanmu apa mereka pengirimnya sebelum kalian mengklik *link* tersebut.\r\n\r\nVirus bisa menyebabkan akun sosial media atau email kalian menyebarkan \"spam\" ke seluruh teman-temanmu. Spam adalah pesan mengganggu dari internet yang dikirim kepada banyak orang. Bisa jadi penipuan, *link* iklan atau bahkan pornografi. Kalo komputer dan telefon kalian kena virus, virus akan mengirimkan email spam atau pesan, yang sangat memalukan.\r\n\r\nPenting bagi kita untuk mengetahui apa isi sebuah *link* sebelum mengklik agar dapat menghindari virus yang bisa menyebar ke telefon genggam atau komputer. Kalo telepon genggammu atau komputer mulai terlihat aneh, cepat-cepat ke toko biar diperbaiki!\r\n\r\nHati-hati dengan apa yang kamu klik!\r\n\r\nNgobrol Lagi!\r\n\r\nKak Maya\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:** ", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "875909419b244821bb3914d2b3eece14", 
   "published": null, 
-  "position": 1, 
+  "position": 45, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mstecharticle7", 
   "uuid": "224ec446a2a74b7c968c8f15cd89a86f"
