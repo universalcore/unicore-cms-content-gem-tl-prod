@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-05-20T06:12:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T06:12:16+00:00", 
+  "modified_at": "2015-10-22T10:37:56.893087+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "de6fbbf39ef1453ca5a47c361fc7485a"
+  ], 
   "id": null, 
   "content": "Kita sudah dengar berkali-kali: kita punya kulit kecoklatan dan cewek \u2018cantik\u2019 punya kulit cerah. Para tukang iklan mau kamu untuk percaya bahwa punya kulit gelap itu nggak cukup baik \u2014 dan mereka punya solusinya, dalam bentuk sabun dan krim pencerah maupun perawatan lainnya.\r\n\r\nIni waktunya kita menyadari bahwa semua warna kulit itu cantik. Masa sih, bilang Kinaryosih, Lola Amaria atau Shanty nggak cantik? Nggak dong! Cewek-cewek ini sukses dan cantik \u2014 dan semuanya punya kulit kecoklatan! Mereka cantik karena mereka tampil percaya diri dan menghargai diri mereka lebih dari sekadar penampilan.\r\n\r\nDefinisi cantik itu nggak hanya kulit yang cerah atau putih, rambut lurus panjang dan tubuh yang kurus. Banyak orang mempunyai bentuk tubuh berbeda-beda, tekstur rambut, ciri-ciri wajah, dan warna kulit yang cantik. Yang membuat mereka menawan adalah kepercayaan diri!\r\n\r\nBanyak sekali hal-hal salah yang dibuat untuk membuat cewek-cewek merasa warna kulit mereka nggak sesuai, tapi ayo kita mulai pelajari dari hal yang sederhana: banyak produk yang nggak aman buatmu!\r\n\r\nPara manufaktur yang nggak bertanggung jawab menggunakan bahan kimia dan bahan utama berbahaya untuk pemutih kulit, seperti steroid, hydroquinone, dan merkuri. Zat ini bahaya banget dan bisa menyebabkan masalah kesehatan serius, termasuk luka permanen, keracunan merkuri, bahkan kematian! Hi\u2026 Seram!\r\n\r\nBeberapa pemutih kulit menggunakan kata-kata berbau positif, seperti \u201cherbal\u201d atau \u201calami,\u201d biar kamu percaya bahwa produk ini nggak berbahaya. Sebenarnya, banyak produk yang secara teknis alami, tapi itu nggak berarti semuanya bagus buat kamu: bahkan beberapa bahan kimia paling berbahaya di dunia biasanya ditemukan dari alam \u2014 banyak racun berasal dari bahan alami, tapi kita nggak mau kan, kalo pakai semua itu di wajah kita!\r\n\r\nWarna kulit kalian itu cantik apa adanya, dan kalo kamu PD dan bahagia, kalian akan memancarkan sesuatu yang lebih baik daripada kulit yang cerah: kamu bersinar dengan kecantikan dari dalam!\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "cf9d355864b340d49e36802d434fba54", 
   "published": null, 
-  "position": 19, 
+  "position": 37, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "beautycomesinallcolors", 
   "uuid": "5adff4841d2a4d77a392c4baec53cc40"
