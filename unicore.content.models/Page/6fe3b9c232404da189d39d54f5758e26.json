@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-05-20T06:21:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T06:21:08+00:00", 
+  "modified_at": "2015-10-22T10:37:51.427595+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "861bf8fd25aa4d9f87f9c67299f9579d"
+  ], 
   "id": null, 
   "content": "Internet itu luar biasa! Kamu bisa ketemu orang-orang baru, belajar ilmu baru bahkan berbagi ide dari teman-teman di seluruh dunia\u2026 Tapi, gimana dengan teman-teman kamu yang ada di sekitarmu? Kita juga cinta jejaring  sosial seperti kalian semua, tapi kalo waktu yang kamu habiskan secara online menciptakan batasan tak terlihat antara kamu dan teman-teman, mungkin ini saatnya buat letakkan hape kalian dan mulailah mencari pengalaman dengan dunia sekitar dengan #nofilter!\r\n\r\n**Ngobrol Beneran.**\r\n\r\nMei, remaja usia 16 tahun dari Surabaya, cerita kepada kami tentang kejadian saat ia pergi ke warung favoritnya pada Sabtu malam. Semua teman-temannya ada disana, tapi semuanya terlihat diam \u2014 cuma ada bunyi \u2018ping\u2019 dan kicau-kicauan dari HP! Ia sadar betapa lucunya ketika salah satu teman baiknya, yang persis duduk di sebelah dirinya, mengirimkan sebuah SMS!\r\n\r\nKedengarannya konyol, tapi itu adalah sesuatu yang kita semua mungkin pernah alami. Kalau kamu capek karena sepertinya kamu sendiri bahkan saat dikelilingi teman-teman, ini ada sebuah ide:\r\n\r\nYakinkan teman-temanmu kalo orang pertama yang mengecek hape saat kumpul-kumpul harus menyanyikan lagu konyol untuk semuanya. Kalo itu nggak berhasil membuat teman kamu meletakkan gadget mereka\u2026 yah, kayaknya nggak ada yang bisa! ;)\r\n\r\n**Dunia Nyata**\r\n\r\nKita <3 Internet\u2026 Banyak sekali yang dapat dipelajari dan lakukan dan pikirkan di internet. Ketika kamu nggak tau apa lagi yang harus di-Google, selalu ada foto-foto kucing! Tapi, jangan lupa yang paling penting: orang yang berada di sebelahmu. Teman-temanmu, keluargamu. Orang-orang yang kamu sayangi.\r\n\r\nIngat kata-kata bijak penyair Wiji Thukul: *\u201cApa gunanya banyak baca (buku) kalau mulut kau bungkam melulu?\u201d* Selalu hadir dan tampilkan dirimu di kehidupan supaya kamu punya hal-hal yang bisa kamu \u2018Like\u2019 dan \u2018Share\u2019 di kehidupan nyata juga.\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "0039310cae564e0a9d3411236513e177", 
   "published": null, 
-  "position": 19, 
+  "position": 55, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "gettingconnectedirl", 
   "uuid": "6fe3b9c232404da189d39d54f5758e26"
