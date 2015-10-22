@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-27T12:07:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-27T12:07:11+00:00", 
+  "modified_at": "2015-10-22T10:37:54.276198+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bb78c5607efd473ea349a60e06390cfc"
+  ], 
   "id": null, 
   "content": "*Hai Kak Maya!*\r\n\r\n*Sebetulnya boleh nggak kalo aku nge-pos foto atau selfie di Facebook? Teman-temanku sering selfie juga, tapi Bu Guru malah bilang kalo itu bisa bikin para stalkers atau para orang iseng penasaran. Apa sih maksud Bu Guru? Seberapa besar kemungkinan kita untuk diikuti orang yang jahil?*\r\n\r\n*Kalla di Bali*\r\n\r\nHai Kalla di Bali,\r\n\r\nIni pertanyaan yang bagus! Pendapat orang berbeda-beda tentang hal ini. Seiring dengan berkembangnya teknologi, makin mudah bagi orang untuk mengenali kamu dari satu foto.\r\n\r\nContohnya, kalau kamu nge-pos *selfie* kamu dan teman-teman di depan sekolah atau di depan rumah. Orang-orang bisa langsung tahu dimana kamu sekolah dan dimana kamu tinggal. Lalu, mereka bisa mencari kalian dengan mudahnya. Kalo kamu belum mematikan fitur \"geo-location\" (fitur yang memperbolehkan orang lain tahu dimana kamu berada), mereka langsung bisa tahu dimana foto tersebut diambil.\r\n\r\nJadi buat jaga-jaga, selalu pastikan untuk mematikan pengaturan lokasi di *handphone*mu dan di media sosial seperti Facebook, Path, Instagram dan Twitter. Berhati-hatilah dengan jenis foto atau informasi yang kamu berikan terutama dengan lokasi, karena kamu nggak tahu siapa yang lagi mengawasimu!\r\n\r\nSepertinya banyak yang mesti kamu khawatirkan, tapi lebih baik daripada menyesal di kemudian hari!\r\n\r\nNgobrol Lagi!\r\n\r\nKak Maya\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:** \r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "f3cee7125b0c451f8550c56919be73f6", 
   "published": null, 
-  "position": 3, 
+  "position": 26, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mstecharticle6", 
   "uuid": "0b18b6a336db41598fe0acef792b76ed"
