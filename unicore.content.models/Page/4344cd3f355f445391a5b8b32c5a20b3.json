@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-07-16T06:52:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-16T06:52:28+00:00", 
+  "modified_at": "2015-10-22T10:37:56.699551+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d00f80acbbb34c4d8e758495ec96a2f5"
+  ], 
   "id": null, 
   "content": "Lebaran telah tiba! Ini saat yang selalu kunantikan. Liburan sekolah sudah dimulai dan ini saatnya untuk berkumpul bareng teman dan keluarga untuk merayakan hari raya. Tapi, nggak semua orang berasal dari Jakarta kan\u2026 untuk itu Idul Fitri juga berarti waktunya untuk\u2026 *mudik*! Melakukan perjalanan jauh terdengar seru sih, tapi pasti ada capeknya juga, malah kadang bosen bangeeeet.\r\n\r\nMakanya! Untuk itu aku akan berbagi tips yang biasa aku lakukan bareng teman-teman saat mudik. Saatnya untuk bersantai dan menikmati perjalanan!\r\n\r\n**Bawa buku bacaan.**\r\n\r\nEntah itu komik, aksi, drama percintaan atau novel klasik, membaca buku itu nggak pernah ngebosenin! Atau mungkin kamu ingin mencoba hal baru? Coba deh baca cerpen atau buku puisi. Dijamin seru banget. Apalagi kalo kamu bacain puisi-puisi itu kepada teman seperjalanan mu! Coba puisi ini: \u2018Aku\u2019 oleh Chairil Anwar. Ubah perjalanan mudikmu menjadi teater berjalan! Halo, *drama*!\r\n\r\n**Bikin *mixtape* alias kompilasi lagu mu!**\r\n\r\nBikin daftar lagu ceria dan menyenangkan untuk perjalanan mu. Termasuk lagu-lagu yang kamu banget untuk dinyanyiin rame-rame! Atau, kamu bisa coba cara temanku, Desi, ketika ia sedang bepergian dengan keluarganya. Yaitu dengan bermain tebak judul lagu dan teka-teki! Terus, jangan lupa ya untuk merekam si Ibu ketika ia menyanyikan tembang kenangan remajanya! Pasti manis banget buat dikenang. \r\n\r\n**Main, main dan main!**\r\n\r\nYuk kembali ke masa kecil! Letakkan *hape* mu sejenak, dan kembali ke masa lalu. Inget nggak permainan Makan Apa Sekarang? Atau Pancasila Lima Dasar? Coba deh main permainan-permainan ini dengan adikmu dan yang lainnya. Waktu akan berlalu dengan sangat cepat dan pastinya jadi keinget masa kecil yang super menyenangkan!\r\n\r\n**Abadikan momen mu.**\r\n\r\nFoto *selfie*. Rekam perjalananmu. Kirim ke sahabat-sahabatmu. Bikin kolase foto. Apapun caranya, cobalah abadikan momen mu! Mudik emang seru dan kita ngerti sih, kamu pasti udah nggak sabar ingin cepat sampai. Tapi terkadang, yang berharga adalah perjalanan yang kita lalui. Saat kita melalui waktu dengan orang-orang tersayang. Jadi pastikan perjalananmu layak untuk dikenang!\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "2896b1e9e2b3493a8563c8053ae6a479", 
   "published": null, 
-  "position": 12, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "howtomakemudikanadventure", 
   "uuid": "4344cd3f355f445391a5b8b32c5a20b3"
