@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T03:37:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T03:37:51+00:00", 
+  "modified_at": "2015-10-22T10:37:37.930809+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "029e031416124fda9592ddee71dc6a98"
+  ], 
   "id": null, 
   "content": "*Ketika menciptakan Deklarasi Gadis Remaja, kami berbicara dengan lebih dari 500 perempuan remaja dari 14 negara. Cerita Joanna mencerminkan tantangan yang dihadapi oleh banyak gadis remaja yang kami ajak bicara...*\r\n\r\n**Ketahanan Ekonomi**\r\n\r\nCerita Joanna adalah contoh kenapa tujuan ke-4 Deklarasi Gadis Remaja - ketahanan ekonomi - sangat penting.\r\n\r\nWaktu masih muda, dia dijual keluarganya karena mereka perlu uang tambahan. Mereka menganggapnya sebagai beban bagi keuangan keluarga.\r\n\r\nTapi waktu Joanna kabur dari orang yang membelinya, dan waktu dia diberi kesempatan untuk mempelajari keterampilan baru yang membuat dia bisa mengurus dirinya sendiri - seperti menanam bahan makanan yang bisa dia jual - hidupnya menjadi makmur dan menjadi perempuan muda mandiri yang bisa memberikan kontribusi pada pertumbuhan ekonomi komunitasnya di tahun-tahun mendatang. \r\n\r\n\"Penting bagi wanita-wanita di Liberia untuk punya usaha mereka sendiri,\" katanya, \"karena waktu kamu punya usahamu sendiri, tidak seorang pun bisa mengganggumu.\"\r\n\r\n**Wanita sering kekurangan akses ke aset ekonomi. Itulah kenapa kita perlu menjangkau gadis remaja sebelum terlambat. Kadang-kadang, memulai Girl Effect sama mudahnya dengan membuka sebuah rekening bank. Baca Deklarasi Gadis Remaja dalam versi utuh.**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 81, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "joannawassoldformoney", 
   "uuid": "7eed3b8e198c4b95a7fe58afbe7ada8d"
