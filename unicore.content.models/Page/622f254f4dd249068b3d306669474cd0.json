@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-21T04:16:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-21T04:16:37+00:00", 
+  "modified_at": "2015-10-22T10:37:35.765450+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bb78c5607efd473ea349a60e06390cfc"
+  ], 
   "id": null, 
   "content": "*Hai Kak Maya!*\r\n\r\n*Teman-temanku suka gosipin dan bikin postingan jelek buat teman sekelasku di Facebook. Mereka suka mengejek dan aku rasa omongan mereka nggak benar! Aku nggak suka, deh, tapi aku takut mereka bakal ngejek aku juga kalo aku ngomong soal ini. Apa ya, yang harus aku lakuin buat menghentikan mereka?*\r\n\r\n*Mita di Makassar*\r\n\r\nHai Mita di Makassar,\r\n\r\nYang kamu alami ini adalah peristiwa *cyber-bullying*. Sama jahatnya dengan buli di kejadian nyata. Karena hal ini menyakitkan, bahkan beberapa negara menganggap ini sebagai sebuah kejahatan.\r\n\r\nCoba ajak temanmu bicara. Mungkin awalnya akan terasa menakutkan dengan situasi begini, apalagi kalo kamu nggak terlibat. Kita nggak bohong: kamu bisa jadi target buli selanjutnya, tapi... Apa kamu mau berteman dengan buli?\r\n\r\nSalah satu cara untuk bikin mereka berhenti adalah mengingatkan temanmu bagaimana rasanya kalo mereka bertukar tempat. Kamu bisa menyakinkan mereka untuk menghentikan perbuatan tersebut. Dan, walaupun ini bukan niatmu, tapi orang akan dengan mudahnya merasa malu saat orang lain menunjukkan kesalahan mereka.\r\n\r\nKalau nggak berhasil, kamu bisa minta bantuan teman sekelas untuk melaporkan kejadian ini kepada orang tua atau guru yang bisa dipercaya. Kamu mungkin bisa kehilangan satu atau dua teman, tapi kamu melakukan hal yang benar. Melibatkan orang yang lebih dewasa juga bisa mengentikan kasus *cyber-bullying*. Hal ini juga dapat menyebarkan pesan bahwa bullying itu salah. \r\n\r\nJadilah pemberani! \r\n\r\nNgobrol Lagi!\r\nKak Maya\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "f8070b3f172a4b61a4762739f570ccc8", 
   "published": null, 
-  "position": 3, 
+  "position": 73, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mstecharticlethree", 
   "uuid": "622f254f4dd249068b3d306669474cd0"
