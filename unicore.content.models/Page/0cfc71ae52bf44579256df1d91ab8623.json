@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-12T03:56:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-12T03:56:52+00:00", 
+  "modified_at": "2015-10-22T10:37:44.257923+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "aacbd41a0aaf42b3b2130cd76402b19e"
+  ], 
   "id": null, 
   "content": "Suatu hari, Anisa siap-siap berangkat sekolah. Saat bercermin dan bergegas keluar pintu, tiba tiba ia melihat sesuatu\u2026 di rambutnya!\r\n\r\n*\u201cIIIIIIHHH! ADA KETOMBE!\u201d* teriak Anisa.\r\n\r\nMeskipun ketombe itu sama sering munculnya seperti jerawat, tetap saja bikin malu. Tapi, mau dengar kabar baik? Kamu nggak jorok, kok. Semua orang punya masalah yang sama. Ketombe mudah banget buat diatasi. Ini ada tips keren buat kamu:\r\n\r\n**Kekuatan Super Keramas**\r\n\r\nKetombe disebabkan karena kulit kepalamu membuang sel-sel kulit mati atau adanya pertumbuhan jamur bernama malassezia yang berlebihan. Pergi ke apotek terdekat dan cari sampo khusus untuk perawatan rambut berketombe. Kamu akan menemukan dengan dengan mudah. Seperti yang kita bilang: ketombe itu normal. Cuci rambutmu setiap hari sesuai dengan instruksi. Kalo kalian punya, kalian bisa menambahkan setetes minyak pohon teh atau tea tree ke dalam sampo untuk melembapkan kulit kepala dan rasanya akan menyegarkan. Saat kamu sudah keramas, sisir rambutmu untuk menyebarkan minyak alami dari kulit kepalamu.\r\n\r\n**Pakai yang Alami Aja**\r\n\r\nBerhenti menggaruk kepalamu. Caranya, pijat kulit kepala dengan lidah buaya sebelum menggunakan sampo. Efek dingin yang diberikan dari lidah buaya akan menyejukkan rasa gatal. Kalian juga bisa menggunakan minyak zaitun, kalo kalian punya. Pijat sebanyak 10 tetes ke kepala dan tutup dengan penutup kepala semalaman. Jangan lupa cuci rambut di pagi hari setelahnya atau kalo nggak, kalian nanti punya rambut yang berminyak. \r\n\r\n**Kalian adalah Apa yang Kalian Makan**\r\n\r\nPernah dengar tentang Zinc? Zinc adalah mineral terbaik buatmu! Makanan yang tinggi kandungan zinc-nya bisa melawan pertumbuhan ketombe karena akan menghambat pertumbuhan kembali sel kulit, yang diketahui sebagai ketombe. Cari makanan yang kaya akan zinc, seperti bayam atau sayuran hijau lainnya, atau susu dan kacang almon. Nggak hanya mencegah ketombe, makanan ini bergizi buat kalian!\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "c55c66d6d809433fbb06e7f0b7c62438", 
   "published": null, 
-  "position": 3, 
+  "position": 52, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "theproblemwithdandruff", 
   "uuid": "0cfc71ae52bf44579256df1d91ab8623"
