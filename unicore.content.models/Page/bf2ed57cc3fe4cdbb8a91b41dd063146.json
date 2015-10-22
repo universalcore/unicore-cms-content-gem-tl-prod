@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T03:58:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T03:58:49+00:00", 
+  "modified_at": "2015-10-22T10:37:59.573326+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "aa0f5be22d20429595c809eb31e8194d"
+  ], 
   "id": null, 
   "content": "*Di seluruh dunia gadis-gadis remaja sedang melakukan hal-hal luar biasa dan menginspirasi orang lain untuk melakukan hal yang sama. Berikut hanya dua dari mereka...*\r\n\r\n**Gadis remaja yang menentang FGM**\r\n\r\nLillian Mwita, dari Kenya, yang blak-blakan, percaya diri, dan tidak takut membela apa yang dia yakini. \"Aku tidak akan pernah terima (alat kelaminku) dipotong, terserah mereka mengecapku orang buangan atau bukan.\" Pada waktu usianya baru sembilan tahun, ketika dihadapkan dengan pemotongan alat kelamin perempuan, Lillian kabur dari rumah dan berlindung pada para penentang FGM. \"Aku masih muda. Aku punya impian besar untuk masa depanku dan apa yang penting untukku sekarang adalah pendidikan,\" katanya.\r\n\r\n**Gadis remaja yang menolak kekerasan**\r\n\r\nJoyce Mkandawire sering melihat gadis remaja didorong untuk berhubungan seks dengan para lelaki (dijuluki dubuk) di negara asalnya, Malawi. \"Dubuk tidak memakai pengaman, itulah kenapa aku tahu gadis-gadis remaja terjangkit HIV karena para dubuk,\" jelasnya. Menolak untuk bersikap pasif, Joyce memutuskan untuk melakukan sesuatu tentang itu dan mendirikan Jaringan Pemberdayaan Gadis Remaja. Kegigihan dan motivasinya mendorong perubahan yang tulus bagi para gadis remaja Malawi, sebuah pergeseran ke arah yang lebih baik yang dipimpin oleh Joyce yang lain - Presiden Joyce Banda. \r\n\r\n**Gadis remaja tidak bisa berhasil ketika mereka hidup dalam ketakutan. Dimulai dengan menciptakan tempat aman sampai menetapkan undang-undang yang lebih kuat, mengakhiri kekerasan terhadap gadis remaja adalah langkah pertama untuk mengakhiri kemiskinan global. Kepemimpinan memerlukan keberanian. Inilah beberapa kiat untuk memulai.**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 23, 
+  "position": 31, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ihavebigdreamsformyfuture", 
   "uuid": "bf2ed57cc3fe4cdbb8a91b41dd063146"
