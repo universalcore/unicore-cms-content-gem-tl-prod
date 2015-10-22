@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T03:56:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T03:56:20+00:00", 
+  "modified_at": "2015-10-22T10:37:41.543454+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fac6221430f3427aa72092e24366228e"
+  ], 
   "id": null, 
   "content": "*Model adalah suatu profesi terhormat buat gadis remaja di banyak negara. Inilah cerita seorang gadis remaja.*\r\n\r\nNamaku Aurore dan aku tinggal di Rwanda. Sejak aku berusia 13 tahun, aku suka menonton model bekerja. Dulu aku suka ikut-ikutan kakak perempuanku main pura-pura jadi model dan aku jatuh cinta sama apa yang aku lihat: wanita kuat, cantik, dan percaya diri yang merayakan kecantikan dalam dan luar mereka. Waktu aku berusia 17 tahun, aku juga mulai terjun di dunia model buat bersenang-senang saja. Tapi dengan cepat aku sadar kalau orang-orang ngga memperhatikan aku. Bos-bosnya jahat. Model-model diperlakukan seperti barang, bukan orang.\r\n\r\nSuatu hari sesudah menonton teman-teman aku dimarahi lagi, aku punya gagasan: Aku bisa lakukan pekerjaan yang lebih baik daripada bos-bos ini! Aku harus punya dan jalankan agensi model yang memastikan model-modelnya diperlakukan dengan hormat!\r\n\r\nSeiring berjalannya waktu aku mulai benar-benar yakin sama gagasan aku. Aku perhatikan baik-baik bagaimana segala sesuatunya bekerja dan bagaimana agensi model berjalan. Aku tahu aku harus bekerja betul-betul keras buat mewujudkannya. Aku minta saran dari orang-orang yang berpengalaman di dunia bisnis. Aku bicarakan mimpi aku sama orang-orang muda dan para model. Setiap orang mendukungku!\r\n\r\nOrang tuaku juga mendukung. Mereka selalu bilang aku bisa mewujudkan mimpi-mimpiku kalau aku  berusaha cukup keras. Aku berterima kasih sekali sama mereka.\r\n\r\nLalu di bulan Juli 2011, aku mengambil langkah besar dan memutuskan buat memulai bisnis aku sendiri. Bulan November tahun itu juga, aku meluncurkan perusahaan aku sendiri, Ikobe Modelling Company!\r\n\r\nIni waktu yang seru banget, tapi juga menakutkan. Melihat ke belakang, aku bangga kalau aku cukup berani buat bekerja keras dan mengikuti mimpi aku. Sekarang, bisnis aku terus tumbuh dan aku bisa hidupi diri sendiri dengan uang jerih payah aku sendiri.\r\nTapi apa yang betul-betul hebat adalah aku bisa mempekerjakan orang-orang muda lainnya supaya mereka bisa menghidupi diri mereka sendiri. Sama-sama, kami bekerja buat membangun perekonomian Rwanda, dan kami lakukan dengan kebanggaan dan martabat.\r\n\r\nGadis-gadis remaja, ngga peduli apa mimpi kamu, ingatlah buat selalu bekerja keras, menghargai orang lain, menghormati diri kamu sendiri, dan kejarlah mimpi kamu! Aku bangun dengan bahagia tiap paginya tahu kalau aku bekerja buat meraih masa depan yang lebih baik.\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 68, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "iamchasingmydreams", 
   "uuid": "de6fbbf39ef1453ca5a47c361fc7485a"
