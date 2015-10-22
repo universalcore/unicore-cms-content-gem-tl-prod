@@ -6,15 +6,17 @@
   "primary_category": "af87d9c5b59f4ba88e91010e80688b27", 
   "created_at": "2015-01-02T05:23:12+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-02T05:23:12+00:00", 
+  "modified_at": "2015-10-22T01:25:33.408813+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "64397a0583e54c7c951871f9e27ff51d"
+  ], 
   "id": null, 
   "content": "**Garotas de todo o mundo em geral menstruam pela primeira vez entre os 12 e os 14 anos, mas isso pode acontecer antes ou depois. Ficar menstruada pode ser surpreendente ou assustador. Esta \u00e9 a hist\u00f3ria de uma garota.**\r\n\r\nMeu nome \u00e9 Deepa. Eu tenho 13 anos e vivo na \u00cdndia. Tive minha primeira menstrua\u00e7\u00e3o no m\u00eas passado. Quando eu vi o sangue na minha calcinha eu fiquei surpresa, mas n\u00e3o assustada, porque a minha m\u00e3e me falou que eu come\u00e7aria a menstruar em algum momento depois de completar 12 anos. \r\n\r\nEu lavei minha calcinha e contei \u00e0 minha m\u00e3e o que aconteceu. Ela ficou t\u00e3o feliz que a filha dela tinha se tornado mulher! Ela me deu um pacote de absorventes e me mostrou como colocar um na minha calcinha. Era uma experi\u00eancia nova pra mim, mas correu tudo bem pelo resto da semana.\r\n\r\nEnt\u00e3o, um m\u00eas depois eu estava na escola. Era um dia normal, at\u00e9 que eu comecei a sentir algo estranho na minha barriga. Parecia que eu estava com c\u00f3lica. Eu achava que estava ficando doente e n\u00e3o sabia que isso era um sinal de que eu ia menstruar. Minha menstrua\u00e7\u00e3o veio naquele dia e eu n\u00e3o estava preparada.\r\n\r\n\u00c0 tarde eu tive que ir embora da escola porque tinha sangue na minha saia e no meu assento. Eu achava que todo mundo devia ter visto. Fiquei t\u00e3o constrangida! Eu n\u00e3o queria voltar para a escola nunca mais.\r\n\r\nQuando eu cheguei em casa, minha m\u00e3e se sentou comigo e disse que havia acontecido a mesma coisa com a minha irm\u00e3.  Ela disse que podemos garantir que n\u00e3o vai acontecer de novo, porque eu posso acompanhar a minha menstrua\u00e7\u00e3o e saber quando ela vir\u00e1 no pr\u00f3ximo m\u00eas, porque ela vem mais ou menos a cada 28 dias. \r\n\r\nEla disse: \"Voc\u00ea vai ter provavelmente 5 dias de sangramento no in\u00edcio de cada ciclo. O ciclo menstrual \u00e9 contado desde o primeiro dia da sua menstrua\u00e7\u00e3o at\u00e9 o primeiro dia da pr\u00f3xima. Para a maioria das mulheres, o ciclo menstrual dura entre 21 e 35 dias. N\u00f3s vamos marcar no seu calend\u00e1rio\".\r\n\r\nEu voltei para a escola no dia seguinte e ningu\u00e9m disse uma palavra sobre o que aconteceu. Ningu\u00e9m parecia notar ou se importar.  Foi uma li\u00e7\u00e3o dif\u00edcil pra mim, mas sou muito grata pela minha m\u00e3e, pelo calend\u00e1rio e pelas informa\u00e7\u00f5es. \r\n\r\n**Voc\u00ea j\u00e1 come\u00e7ou a menstruar? H\u00e1 aqui alguns fatos que voc\u00ea precisa saber:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Deepa", 
   "uuid": "dea4d4749c1747b7a7a9ef4cc445f272"
