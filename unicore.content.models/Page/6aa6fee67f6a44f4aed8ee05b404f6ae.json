@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T03:44:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T03:44:53+00:00", 
+  "modified_at": "2015-10-22T10:37:56.961432+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d78277bb57104496ba5807278264c6b4"
+  ], 
   "id": null, 
   "content": "*Perdagangan narkoba dan konflik yang terus-menerus buat lingkungan tertentu - atau barrio - di kota Bogota, Kolombia, sangat berbahaya, khususnya buat gadis-gadis remaja. Inilah cerita seorang gadis remaja:* \r\n\r\nNamaku Leidy dan aku adalah seorang gadis remaja Kolombia berusia 17 tahun. Awal hidupku berat. Ibuku pergi waktu aku masih bayi. Aku bahkan ngga bakal kenali dia kalau aku bertemu sama dia di jalan. \r\n\r\nAyahku datang dan pergi dari rumah, juga hidupku. Pernah sekali waktu, dia pukul tanganku pakai palu buat menghukum aku karena mencuri. Sesudah itu, aku selau disalahkan setiap ada barang yang hilang di rumah. Aku mulai habiskan banyak waktu di luar rumah cuma buat menghindar.\r\n\r\nKehidupan di sekolah ngga pernah gampang buat aku. Aku diledek karena punya pipi tembem. Semua intimidasi dari teman-teman sekelas aku betul-betul kena ke aku. Aku mulai sering bolos sekolah. Sampai akhirnya aku berhenti total bersekolah. Waktu aku merasa kesepian yang kental itu mulai merayap dalam diri aku, aku bakal pergi ke satu tempat dan melihat orang-orang miskin di sana yang lagi kesusahan seperti aku. Ini buat aku merasa lebih baik. Bukan cuma aku yang menderita.\r\n\r\nSuatu hari, secara kebetulan aku bertemu sama satu grup orang-orang muda yang ngga suka bersekolah juga. Mereka ajak aku buat kumpul bareng. Aku betul-betul tertarik sama mereka karena mereka buat aku merasa jadi bagiannya mereka.\r\n\r\nNgga lama, aku minum-minum dan merokok sama mereka. Waktu ayahku tahu kalau aku pakai mariyuana, dia marah besar dan memukuli aku. Dia pukuli aku sebegitu parahnya sampai aku lari dari rumah. Nenekku melaporkan aku sebagai pelarian. Aku dijemput sama pihak berwenang dan ditempatkan di rumah pemasyarakatan untuk remaja.\r\n\r\nAwalnya, itu adalah tempat kesedihan. Aku berpikir buat melarikan diri.\r\nTapi itulah saatnya hidup aku mulai berbalik.\r\n\r\nDi rumah pemasyarakatan itu, aku bertemu seorang pria yang bisa main piano. Dia dari organisasi bernama Ayara yang membantu gadis-gadis remaja seperti aku - gadis-gadis remaja yang sedang cari tempat yang sesuai dan bisa diterima. \r\n\r\nOrganisasi itu ajarkan aku bagaimana mengekspresikan diri melalui musik rap dan menari. Pertama kali aku tampil buat grup, aku malu banget. Aku pikir semua orang bakal tertawakan aku. Kebalikannya, mereka malah bersiul dan bertepuk tangan!\r\nMenyanyi mengalir dalam darahku, tapi aku tahu kalau menari buat aku gembira. Waktu aku menari, aku lupa sama semua masalah dan tekanan dalam hidup aku.\r\n\r\nMasih ada benturan-benturan dalam perjalanan hidup aku, tapi aku gigih. Alih-alih lari diri dari masalah, sekarang aku datang ke Ayara dan menari waktu aku tekanan hidup buat aku tertekan. Aku masih mau, suatu hari aku bisa cari nafkah dari menjadi seniman dan breakdancing di setiap kesempatan yang aku punya. Aku bekerja keras dan mengandalkan orang-orang di lingkungan aku buat mewujudkannya.\r\n\r\nBaca lebih banyak tentang cerita Leidy di [grassrootgirls.tumblr.com][1].\r\n\r\n**Apa kamu ada dalam lingkungan pergaulan yang buruk? Baca ini untuk tahu bagaimana berteman sama orang-orang yang baik buat hidup kamu:** \r\n\r\n\r\n  [1]: http://grassrootsgirls.tumblr.com", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 29, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "lifekeptgettingworse", 
   "uuid": "6aa6fee67f6a44f4aed8ee05b404f6ae"
