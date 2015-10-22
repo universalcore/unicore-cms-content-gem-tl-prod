@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:25:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T04:25:01+00:00", 
+  "modified_at": "2015-10-22T10:37:41.508224+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cd61ed22711943aeafb61cef7543de9e"
+  ], 
   "id": null, 
   "content": "**Buat beberapa orang, \u201cNggak mau\u201d itu kalimat yang amat susah buat diucapkan. Apalagi kalo nggak terbiasa. Sebagai cewek, kita harus lemah lembut. Tapi nggak berarti kita lemah. Ketika ada seseorang yang menyentuh kamu dengan cara yang kamu nggak suka, atau bicara hal \u2013 hal yang membuatmu risih, itulah saatnya kamu harus menunjukkan bahwa kamu nggak selemah itu. Pelecehan seksual harus dihentikan, dan orang pertama yang bisa menghentikannya adalah kamu sendiri.**\r\n\r\nCaranya ? Katakan \u201cTidak\u201d atau \u201cNggak mau!\u201d dengan tegas. \r\nMemang nggak mudah, tapi nggak mustahil juga untuk dilakukan. Kamu bisa berlatih dengan :\r\n\r\n1. PIKIRKAN, kira \u2013 kira situasi apa sih yang menyebabkan kamu bilang \u201cTidak\u201d ? Di depan kaca, atau di depan sahabatmu, berlatihlah untuk mengatakan \u201cTidak\u201d sebagai persiapan kalolau situasi itu benar terjadi.\r\n\r\n2. HINDARKAN diri kamu dari orang yang membuatmu merasa nggak nyaman , atau yang suka menyentuh kamu dengan tidak wajar itu. \r\n\r\n3. KATAKAN \u201cTidak\u201d atau \u201cNggak mau !\u201d atau yang semacamnya dengan lantang kalo hal itu terjadi. Kamu tidak perlu takut atau malu walaupun terjadi di tempat umum. Dialah yang seharusnya malu dan takut, bukan kamu.\r\n\r\n4. RENCANAKAN masa depan kamu. Hindari kehamilan yang tidak diinginkan apalagi kalo kamu belum menikah atau masih berusia remaja. Jaga dan jauhkan diri kamu dari hubungan seks yang tidak aman.  Percayalah, masa depan kamu jauh lebih berharga kalo kamu bisa mengenyam pendidikan dan kalo kamu sehat. Jika kamu masih remaja dan sudah menikah, sebaiknya gunakanlah kondom atau alat kontrasepsi untuk merencanakan kehamilanmu. Tundalah selagi kamu mengejar cita \u2013 cita. Masa depan yang lebih cerah dan bahagia akan menunggu kamu, pasangan dan bayimu kelak.\r\n\r\n**Banyak kisah tentang remaja yang hamil ketika mereka belum siap, baik secara fisik atau mental. Menjadi seorang ibu itu bukan tugas yang mudah lho. Tanyalah pada ibumu, \u201cBu, jadi ibu susah nggak sih? \u201c, dan dia pasti akan menjawabmu dengan cerita yang panjang banget. Selagi bisa, rencanakan masa depanmu sebaik-baiknya ya!**\r\n\r\n\r\n\r\n\r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 65, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "howdoyousayno", 
   "uuid": "dbfc459925df46aa88d39d4e6b187b46"
