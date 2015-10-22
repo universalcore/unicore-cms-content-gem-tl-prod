@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-10T04:36:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-10T04:36:24+00:00", 
+  "modified_at": "2015-10-22T10:37:49.154272+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ab244f8e1b3d48d9be1bea0545b9555c"
+  ], 
   "id": null, 
   "content": "Perubahan adalah hal yang normal dalam hidup. Perubahan terjadi ke siapa saja. Bahkan, kita mengalami perubahan saat ini! Perubahan itu adalah semua yang menyangkut proses alami yang dilalui manusia.\r\n\r\nTapi, gimana kalo persahabatan berubah?\r\n\r\nPerubahan akan terjadi tiba-tiba saat kalian beranjak dewasa, dan rasanya memang menyebalkan! Satu hari kamu dan sahabat bisa nempel seharian, dan hari berikutnya, *poof*! Semuanya sibuk melakukan hal-hal seru tanpa kamu. Umi punya band baru, Tri sibuk latihan sama kelompok sepak bolanya dan Dewi makin rajin dengan kegiatan di masjid.\r\n\r\nSepertinya semua orang sudah jalan sendiri-sendiri dan melupakan persahabatan - semua orang, kecuali kamu. Dan ini membuat kamu merasa sedikit iri dan sedih, tapi sebenarnya, nggak apa-apa. Kamu mendengarkan perasaanmu dan itu adalah hal yang penting.\r\n\r\nJangan mendadak marah dan malah menganggu aktivitas mereka, ingat\u2026 kalian masih bersahabat, kan? Persahabatan makin indah kalo makin elastis kayak karet, maksudnya makin ditarik tapi nggak bakal rusak. Kamu mungkin ngerasa perlahan mereka makin hilang, tapi yang menarik, persahabatan akan kembali lagi dan makin kuat. Nggak berakhir sampai kapan pun!\r\n\r\nDaripada khawatir soal persahabatan kalian, coba cari kegiatan di waktu senggang. Cari tahu siapa dirimu! Ada dunia besar di hadapan kita, dan banyak yang bisa kalian jelajahi. Kamu bakal terkejut dengan orang-orang baru yang kamu akan kenali dan begitu juga pengalaman yang akan kamu lalui.\r\n\r\nDan selalu kabar-kabaran dengan sahabat kalian! Cari tahu kesibukan mereka. Ceritakan hal-hal seru yang lagi kalian lakukan, dan tukar cerita. Kamu akan menyadari bahwa orang-orang yang kamu sayangi adalah orang yang sama, hanya saja mereka sedang mencari jati diri sendiri juga \u2014 dan ini yang akan membuat persahabatan kalian makin kuat!\r\n\r\nLihat, kan? Buat apa kalian cemas! Nggak perlu lagi...\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "caee7bd917cb47edb55059a2953f62d9", 
   "published": null, 
-  "position": 3, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "growingupnotapart", 
   "uuid": "525c78b8d88f4643a3f5929568b4fe4c"
