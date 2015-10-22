@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-09-16T06:07:11+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-16T06:07:11+00:00", 
+  "modified_at": "2015-10-22T10:37:37.873037+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1fa971e8bcba481a9cae3f2be630f014"
+  ], 
   "id": null, 
   "content": "Hei, kamu! Iya, kamu. Kamu dengan mata cantik dan senyum manis disana. Kamu pasti pernah kan ngerasa bosan? Stres? Sedih? Jatuh cinta? Atau malah putus cinta? Pernah nggak sih kamu berpikir solusi apa yang tepat untuk ngatasin semua perasaan yang meluap-luap itu? Kita beri tau satu rahasia ya...\r\n\r\nLuapkan perasaanmu ke dalam seni.\r\n\r\nIya. Seni!\r\n\r\nSeni memungkinkan kamu untuk mengekspresikan diri. Salah kalo kamu pikir kamu belum pas disebut sebagai seorang seniman. Seni itu bebas. Ia adalah milik bersama dan milikmu juga. Perasaan yang tadinya nggak bisa kamu ungkapkan, dapat kamu tumpahkan menjadi suatu karya seni. Seni berbicara ke setiap orang yang menghargainya. Kamu jatuh cinta dengan suatu bait dalam lagu? Itu seni. Kamu membaca satu karya tulis dan merasa pas banget dengan apa yang lagi kamu rasain? Itu juga bentuk lain dari seni.\r\n\r\n**Seni untuk hidup, Hidup untuk Seni.**\r\n\r\nHal terbaik dari seni adalah ia menciptakan peluang yang tak terbatas bagi siapapun untuk bebas berkarya di dalamnya. Lagi ngerasa bosan dan nggak semangat? Nari deh! Menari membuat kamu bergerak, menyalurkan energi sekaligus membuatmu bebas berekspresi! Menarilah bersama teman-teman atau coba menari sendiri di kamar nggak salah seru kok.\r\n\r\nKalo kamu tipe orang yang lebih suka seni rupa, kamu bisa langsung ambil selembar kertas dan pensil. Nggak usah mikirin apa kata orang nantinya, luapkan aja perasaanmu keatas kertas. Gambarkan perasaanmu. Jangan khawatir kalo nantinya kamu mendapat kritik atas karyamu, karena semua masukan dari orang lain justru akan membuatmu maju! Belajar menerima setiap masukan yang kamu terima.\r\n\r\n**Gak mau ketinggalan cerita seru lainnya? Baca terus di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "aa6aafe5cdb3440ead5680cc6a3aa34c", 
   "published": null, 
-  "position": 0, 
+  "position": 69, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "gettingtotheartofthematter", 
   "uuid": "6ac83d1be2d14dcb9fa932ea3af8327a"
