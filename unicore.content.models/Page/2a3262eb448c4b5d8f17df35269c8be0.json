@@ -6,15 +6,17 @@
   "primary_category": "b224ca3e6e394e529b6cb2368d983991", 
   "created_at": "2015-01-02T05:33:47.535214+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-02T05:33:47.535214+00:00", 
+  "modified_at": "2015-10-22T01:25:32.578942+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6ec3763b227a4122b61e4ec28b5601ce"
+  ], 
   "id": null, 
   "content": "**Como evitar ficar doente**\r\n\r\n - A maioria dos germes virais s\u00e3o espalhados pelo ar atrav\u00e9s de espirros ou tosse. Os germes tamb\u00e9m pode se espalhar pelo suor, saliva ou sangue. Alguns passam de uma pessoa \u00e0 outra ao tocar algo que est\u00e1 contaminado, como ao dar as m\u00e3os a algu\u00e9m com um resfriado, e ent\u00e3o tocar o seu pr\u00f3prio nariz. Se algum dos seus parentes estiver doente, cubra sua boca e fique longe se poss\u00edvel. Se estiver em um espa\u00e7o fechado, tente abrir uma janela para permitir a entrada de ar fresco e a sa\u00edda dos germes\r\n - LAVE SUAS M\u00c3OS! Lembre-se de que os germes t\u00eam medo de \u00e1gua e sab\u00e3o. Lavar as suas m\u00e3os com frequ\u00eancia \u00e9 a melhor maneira de combater os germes. Mantenha-se forte e saud\u00e1vel comendo bem, se exercitando regularmente e dormindo bem. Tudo isso ajudar\u00e1 voc\u00ea a se preparar para combater os germes que causam doen\u00e7as. \r\n - A tuberculose (TB) \u00e9 uma doen\u00e7a causada por bact\u00e9rias min\u00fasculas (germes). As bact\u00e9rias da TB s\u00e3o lan\u00e7adas no ar quando uma pessoa infectada tosse, espirra, fala ou canta. As pessoas pr\u00f3ximas podem respirar essas bact\u00e9rias e ficar infectadas. Alguns dos sinais que voc\u00ea pode notar se tiver se infectado s\u00e3o:  Suores noturnos. Sensa\u00e7\u00e3o de fraqueza e cansa\u00e7o.  Uma tosse cont\u00ednua (que dura pelo menos tr\u00eas semanas). Sangue ao tossir. Dor no peito. Um chiado ao respirar. Problemas respirat\u00f3rios. Se voc\u00ea se sentir estranha ou achar que h\u00e1 algo errado, n\u00e3o espere. V\u00e1 direto ao posto de sa\u00fade, cl\u00ednica ou hospital mais pr\u00f3ximo.\r\n\r\n**Milh\u00f5es de pessoas em todo o mundo sofrem de doen\u00e7as que elas contraem de outras pessoas doentes. Esta \u00e9 a hist\u00f3ria de uma garota.** \r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 29, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-avoid-getting-sick", 
   "uuid": "2a3262eb448c4b5d8f17df35269c8be0"
