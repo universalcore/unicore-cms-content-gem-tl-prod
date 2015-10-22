@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-05T10:23:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-05T10:23:17+00:00", 
+  "modified_at": "2015-10-22T10:37:59.097400+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c005c9d87c1748e7ae3e3116ef711d71"
+  ], 
   "id": null, 
   "content": "Kenapa harus beli kalau kamu bisa buat sendiri? Nggak cuma bisa hemat, buat barang dengan tanganmu sendiri bisa jadi outlet kreatif. Dan kalo dipikir-pikir, kan lebih bagus mendaur ulang barang-barang yang kamu punya daripada beli barang yang baru. Terinspirasi? Ayo kita mulai: \r\n\r\n**1. Inspirasi ada dimana-mana**\r\n\r\nDi era internet ini, kamu bisa memperoleh inspirasi tanpa harus keluar rumah.  Masalahnya malah, ada banyak banget inspirasi, dimana kalian harus mulai? Coba jelajahi website seperti [Pinterest][1] atau [Etsy][2], dimana banyak artis dan kreator dari rumah yang menampilkan karya mereka. Tinggal ketik *\u2018DIY\u2019* atau *\u2018craft ideas\u2019* dan *voila*\u2026 Kamu bisa menjumpai dunia penuh kreasi. Ada ultah temanmu di akhir pekan? Jangan buang uang buat beli benda yang udah umum! Bikin hadiah unik dari hasil tanganmu sendiri, seperti aksesoris gelang tangan atau pernak-pernik lucu. Dia pasti senang banget karena hadiahnya tulus kamu berikan dan cuma satu-satunya yang tersedia karena keunikannya, seperti persahabatan kalian!\r\n\r\n**2. Gunakan apa yang kamu punya**\r\n\r\nJadi, kalian punya ide untuk membuat sesuatu tapi nggak tau mau buat dari bahan seperti apa? Coba lihat ke sekeliling kalian. Nggak perlu cari bahan yang masih baru, berpikir kreatif dan modifikasi hal-hal yang kalian sudah miliki di rumah. (Tapi, pastiin barangnya sudah nggak terpakai lagi!) Ide yang bisa kamu, contohnya: sulap kaus lama kamu jadi tas yang keren, [baca instruksinya di sini][3].\r\n\r\n**3. Mulai jadi rapi!**\r\n\r\nBanyak barang berserakan di kamar? Jangan biarkan barang-barangmu menumpuk. Susun dan rapikan barang-barang kalian baik-baik, jadi saat kamu \u2018tersambar\u2019 ide, kamu langsung bisa mulai. Faktanya: Orang-orang menghabiskan 38 jam untuk mencari benda yang hilang. Bayangkan kalo waktu sebanyak itu digunakan untuk berkarya, kamu sudah punya hasil tangan yang keren. \r\n\r\nItu dia! Nggak ada aturan buat menciptakan kreasi tangan sendiri, yang ada hanyalah langsung mulai! Lebih seru kalo kalian ajak teman-teman buat kreasi bareng. Kayaknya ngumpul dan bikin kerajinan tanggan akhir minggu ini seru juga, ya?!\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**\r\n\r\n  [1]: https://www.pinterest.com/\r\n  [2]: https://www.etsy.com/\r\n  [3]: http://handmadepride.tumblr.com/post/81204440606/click-here-for-more-handmade-goodness", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "6adff687e5d742df93b101a4e22841c8", 
   "published": null, 
-  "position": 5, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "gettingcrafty", 
   "uuid": "91fd8efa085248548c6ac05f5165ab3f"
