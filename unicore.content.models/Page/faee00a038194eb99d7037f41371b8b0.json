@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T04:34:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T04:34:51+00:00", 
+  "modified_at": "2015-10-22T10:37:41.972847+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c72e7914451148c5a7ee832129af74b5"
+  ], 
   "id": null, 
   "content": "*Di seluruh dunia gadis-gadis remaja sedang melakukan hal-hal luar biasa dan menginspirasi orang lain untuk melakukan hal yang sama. Berikut hanya dua dari mereka...*\r\n\r\n**Gadis remaja yang bersuara tentang perdagangan manusia**\r\n\r\nSetelah dibeli sebesar $400 USD oleh pedagang manusia, Somila yang berusia 19 tahun hampir dijual ke prostitusi sebelum diselamatkan di menit terakhir. Mudah saja baginya untuk bersembunyi setelah itu, tetapi Somila menolak untuk diam dan menyuarakan dengan semangat tentang penderitaannya di India. \"Mereka seharusnya sadar kalau mereka tidak bisa memisahkan anak-anak dari orang tua mereka dan membodohi kami. Mereka berbohong dan membodohi kami. Mereka menipu kami.\"\r\n\r\n**Gadis remaja yang bersuara tentang pernikahan anak**\r\n\r\nWalaupun hukum di India mengatakan gadis remaja harus berusia 18 tahun sebelum mereka menikah, hampir setengahnya tidak. Sering kali, orang tua si gadis remajalah yang membuat keputusan itu, jadi susah dan menakutkan bagi gadis remaja untuk bersuara. Sewaktu Kamla, 13, berbicara kepada Dewan Hubungan Luar Negeri untuk laporan tentang pernikahan gadis remaja, jawaban-jawabannya yang jujur dan terus terang benar-benar mengubah keadaan. \"Pada waktu orang tuaku menyebut pernikahan, aku bahkan tidak paham apa arti *'pernikahan'*,\" ceritanya pada si pewawancara. Keberaniannya untuk bersuara menginspirasi para pemimpin dunia untuk bertindak.\r\n\r\n**Dilahirkan sebagai perempuan bukan berarti hidup dengan sedikit kebebasan dan hak daripada laki-laki. Perempuan siap berjuang dan diperhitungkan. Ambil langkah pertama dengan kiat-kiat ini!**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 53, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "whengirlsspeakout", 
   "uuid": "faee00a038194eb99d7037f41371b8b0"
