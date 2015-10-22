@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T04:11:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-04T04:11:35+00:00", 
+  "modified_at": "2015-10-22T10:37:59.280972+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "aa0f5be22d20429595c809eb31e8194d"
+  ], 
   "id": null, 
   "content": "*Setiap hari gadis-gadis remaja menghadapi situasi berbahaya di komunitas mereka sendiri. Hal itu bisa berupa intimidasi di sekolah atau ejekan atau pelecehan di pasar atau di bus. Inilah cerita seorang gadis remaja.*\r\n\r\nNamaku Faith. Aku sedang dalam perjalanan pulang sesudah menyelesaikan pekerjaanku. Waktu itu sudah larut malam dan aku cuma berada beberapa blok saja dari rumahku. Di depan, aku melihat tiga pemuda sedang berkumpul di pojokan di luar sebuah bar. Aku tahu mereka adalah masalah. Aku ngga memperlambat langkahku. Aku ngga mau mereka tahu kalau aku takut. Sudah terlambat buat berbalik. Jadi, yang aku lakukan adalah menyeberang jalan buat menghindari mereka.\r\n\r\nTapi mereka sedang mengamati dan menungguku. Mereka menyeberang jalan dan mulai mengikutiku. Jantungku berdebar kencang. Aku takut sekali. Mereka mulai bersiul dan memanggilku dengan bermacam-macam nama. Mereka mengajakku buat ikut mereka ke bar. \u201cAyolah, cantik,\u201d panggil salah satu dari mereka, \u201ckami bisa buat kamu tersenyum.\u201d Jalanan benar-benar sepi. Ngga ada siapa-siapa di sekitar situ yang bisa aku mintai bantuan! Aku jalan lebih cepat, tapi mereka tepat di belakangku. Lalu salah satu dari mereka menarik lenganku dari belakang. \r\n\r\nAku panik. Aku tepis lengannya dan lari terus tanpa menoleh ke belakang. Waktu berbelok di sudut jalan, aku melihat ada sebuah toko yang buka. Aku lari sekencang-kencangnya dan masuk ke dalam. Segera sesudah aku ada di dalam toko, aku merasa lebih baik. aku ngga sendirian dan ada seorang penjaga toko di sana. \u201cTolong aku,\u201d kataku, \u201cada pemuda di luar sana dan mereka sedang mengejar aku.\u201d Dia melihat keluar dan berteriak. Tapi mereka sudah kabur. Dia menelepon saudara laki-lakiku yang datang menjemputku.\r\n\r\nAku ngga yakin dengan apa yang bisa saja sudah dilakukan sama pemuda-pemuda itu ke aku, tapi aku tahu aku betul-betul takut. Aku bakal coba buat cari jalan pulang yang berbeda dan seorang teman buat temani aku. Seandainya saja aku sama satu teman atau saudara laki-lakiku, aku pasti bakal merasa lebih aman.", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "thoseboysonthecorner", 
   "uuid": "9315064c5c374bf281f860b30bddb379"
