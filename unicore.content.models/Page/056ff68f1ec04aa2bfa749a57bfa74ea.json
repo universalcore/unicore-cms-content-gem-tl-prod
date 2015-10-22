@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-07-28T12:12:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-28T12:12:20+00:00", 
+  "modified_at": "2015-10-22T10:37:31.430884+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e3eb3b3d0b6c409b8faeadd5fe1ac96c"
+  ], 
   "id": null, 
   "content": "Uang itu penting. Semua orang juga tahu! Uang bisa bikin hidup kalian sekeluarga mudah, bisa menyekolahkan kakak dan adik kalian dan dipakai buat belanja baju bagus. Kadang, rasanya uang adalah jawaban untuk semuanya.\r\n\r\nNggak juga. Atau seperti temanku Putri yang selalu berseru tiba-tiba. \u201cCinta adalah hal yang terbaik dan cinta itu gratis!!!\u201d\r\n\r\nPutri selalu melakukan hal itu.\r\n\r\n*Ckck.*\r\n\r\nTapi Putri benar, meskipun dia suka teriak kencang-kencang. Ada hal yang nggak bisa dibeli dengan uang. Nggak ada yang bisa membeli keindahan matahari terbenam dan keindahan alam lainnya. Uang nggak bisa membeli waktu, keluarga atau bahkan harga diri.\r\n\r\nBukannya kita nggak menyadari keperluan kita tentang uang. Semua orang perlu uang! Kita menghabiskan waktu untuk bekerja mencari uang. Tapi, jangan terlalu berlebihan. Kita nggak perlu merubah mimpi kita untuk alasan uang. Uang itu penting, tapi bukan segalanya.\r\n\r\nJadi, lihat uang sebagai sebuah sarana. Itu akan sangat membantu! Dan akan menjadi hal yang menyenangkan untuk digunakan, namun pada akhirnya uang adalah sebuah sarana. Dan pada akhirnya, hal-hal yang membuat kalian bahagia adalah orang yang kalian cintai, hal-hal baik yang kalian lakukan dan pengalaman yang kalian punya.\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "0ea014dea75443c9937f4ce1ab996709", 
   "published": null, 
-  "position": 8, 
+  "position": 83, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "thevalueofmoney", 
   "uuid": "056ff68f1ec04aa2bfa749a57bfa74ea"
