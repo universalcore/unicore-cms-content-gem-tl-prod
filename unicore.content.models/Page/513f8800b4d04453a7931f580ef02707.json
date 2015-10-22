@@ -6,15 +6,17 @@
   "primary_category": "af87d9c5b59f4ba88e91010e80688b27", 
   "created_at": "2014-12-29T08:02:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-29T08:02:17+00:00", 
+  "modified_at": "2015-10-22T01:25:32.642154+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "77d411842d6f4c4ea01937dd85a0c9c3"
+  ], 
   "id": null, 
   "content": "*Espera-se que muitas garotas e mulheres na \u00cdndia fiquem em casa, onde est\u00e3o mais seguras contra o ass\u00e9dio externo. Mas cada vez mais garotas est\u00e3o encontrando coragem para mudar isso. Esta \u00e9 a hist\u00f3ria de uma garota.*\r\n\r\nMeu nome \u00e9 Meenu. Moro em D\u00e9lhi, \u00cdndia, com minha m\u00e3e e 5 irm\u00e3os e irm\u00e3s. Meu pai morreu quando eu tinha 5 anos, ent\u00e3o minha m\u00e3e nos criou sozinha, com seu modesto sal\u00e1rio. \r\n\r\nMinha m\u00e3e n\u00e3o estudou e sua fam\u00edlia fez com que ela se casasse com 15 anos. Ela sempre disse que, se tivesse estudado, poderia dar para n\u00f3s uma vida melhor.  Ent\u00e3o, ela disse que temos obriga\u00e7\u00e3o de estudar.  Elas nos ajudou a frequentar a escola e trabalhar duro para que nossas vidas fossem melhores do que a dela. \r\n\r\nMeus tios achavam que minha m\u00e3e estava perdendo seu tempo. Eles diziam que dever\u00edamos nos casar para que pud\u00e9ssemos ser problema de outra pessoa. Por\u00e9m, escutei minha m\u00e3e e fui para uma escola superlotada, pr\u00f3ximo da favela onde morava. \r\n\r\nMinha m\u00e3e me disse para n\u00e3o dar aten\u00e7\u00e3o aos garotos. Ela disse que, se os garotos demonstrassem interesse em mim, poderia ser perigoso. Se as pessoas falassem (ou, at\u00e9 mesmo, contassem mentiras) sobre garotos prestando aten\u00e7\u00e3o em mim, isso poderia ser uma vergonha para a nossa fam\u00edlia \u2014 ou, at\u00e9 mesmo, resultar em uma viol\u00eancia contra mim. Vi isso com meus pr\u00f3prios olhos. \r\n\r\nDepois que me formei, continuei em casa. Sabia de muitos garotos na favela que diziam que me olhavam. Entretanto, o pensamento de sair e chegar perto de outros garotos era assustador. Sentia-me mais segura em minha pr\u00f3pria casa, onde eu poderia sonhar. \r\n\r\nN\u00e3o sa\u00eda de casa para procurar um emprego. Comecei a me sentir sem esperan\u00e7a, in\u00fatil e estava preocupada que meus sonhos nunca se tornassem realidade.  \r\n\r\nUm dia, minha m\u00e3e me colocou para trabalhar. Enquanto eu estava caminhando pela estrada, encontrei uma mulher. Ela me convidou para participar de uma aula de computa\u00e7\u00e3o apenas para garotas. Fiquei assustada, pois nunca tinha usado um computador antes. Tamb\u00e9m fiquei com medo de ir para o centro de computa\u00e7\u00e3o sozinha, ent\u00e3o minha m\u00e3e me disse para levar uma amiga comigo. \u201cChegou a hora de ser corajosa, Meenu\u201d, disse ela. \r\n\r\nAprendi sobre computadores, direitos das garotas, bem como a trabalhar em equipe para a comunidade, e isso fez com que eu me sentisse muito boa e forte. Quando meu treinamento acabou, me tornei volunt\u00e1ria no centro Feminist Approach to Technology para ensinar outras garotas. Eu me senti preparada para me candidatar para um emprego de telemarketing e estava muito orgulhosa de chegar em casa e dizer para minha fam\u00edlia que havia conseguido o emprego. \r\n\r\nMinha m\u00e3e disse que n\u00e3o poderia esperar para ver o olhar do pai dela quando disse que sua filha estava trazendo dinheiro para a fam\u00edlia. Ganhei dinheiro suficiente at\u00e9 mesmo para pagar o casamento da minha irm\u00e3.\r\n\r\nAprendi que eu n\u00e3o era menos do que ningu\u00e9m. N\u00e3o preciso me sentir amedrontada ou ficar escondida dos garotos. Eu tinha coragem para me defender e defender as outras garotas de D\u00e9lhi. Nossas vozes juntas exigir\u00e3o mudan\u00e7as e, at\u00e9 D\u00e9lhi se tornar mais segura para as garotas, teremos umas \u00e0s outras.\r\n\r\nLeia mais sobre a hist\u00f3ria de Meenu em [grassrootsgirls.tumblr.com][1]\r\n\r\n\r\n  [1]: http://grassrootsgirls.tumblr.com", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 11, 
+  "position": 37, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Meenu", 
   "uuid": "513f8800b4d04453a7931f580ef02707"
