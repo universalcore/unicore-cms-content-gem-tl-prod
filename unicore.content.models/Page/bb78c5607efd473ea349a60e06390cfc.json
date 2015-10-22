@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-19T04:31:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-19T04:31:49+00:00", 
+  "modified_at": "2015-10-22T10:37:59.509894+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "281bf312279a4116b12411218a372d65"
+  ], 
   "id": null, 
   "content": "*Hai Kak Maya!*\r\n\r\n*Aku baru empat bulan di Facebook. Aku punya banyak teman baru. Tapi, aku belum pernah ketemuan sama mereka secara langsung. Ada cowok, teman chattingku akhirnya ngajak ketemuan. Dia bilang aku cantik banget dan dia mau lihat kalau kita cocok. Aku takut buat cerita ke teman-teman atau orangtuaku karena mereka bilang hal kayak gini berbahaya. Tapi, aku rasa dia bisa jadi pacar yang keren dan aku kepingin ketemu langsung dengan dia juga! Aku harus ngapain, nih?!*\r\n\r\n*Sarah di Bandung*\r\n\r\n\r\nHai Sarah di Bandung,\r\n\r\nBahaya banget, loh, ketemuan dengan orang yang baru kamu kenal di dunia maya. Orang-orang bisa dengan mudah berpura-pura di internet. Kamu kan nggak tahu kalau foto-foto dan cerita yang mereka tampilkan itu nyata.\r\n\r\nKamu mungkin ngerasa cepat banget nyaman cerita soal rahasia-rahasiamu di ruang maya dengan orang ini. Nah, hal ini bisa bikin kamu mudah dibohongi dan jadi korban penipuan. Kalau kamu punya perasaan buat seseorang yang kamu kenal secara *online*, dia dengan mudah bisa mengajak kamu untuk ketemuan di tempat asing, dimana dia bisa memanfaatkan atau bahkan mencelakai kamu.\r\n\r\nNggak ada salahnya dicoba, gitu prinsip mereka. Jadi, tiap kali ada orang yang tampil sempurna banget, atau rajin memuji kamu, hati-hati, deh! Mereka mungkin cuma bermanis mulut karena mau mencoba mendapatkan sesuatu dari kamu. Cowok yang kamu taksir itu mungkin adalah bapak-bapak yang lebih tua, yang pake modus internet buat ngedeketin cewek-cewek kayak kalian, *girls*.\r\n\r\nKalau kalian mau ketemuan, jangan lupa bawa teman. Jangan pergi sendirian. Ajak dia ketemuan di tempat publik yang ramai, dimana ada banyak orang yang bisa ngasih pertolongan saat kamu perlu. Jangan masuk ke dalam mobil atau kendaraan umum bersamanya. Jangan kasih tahu dimana kamu tinggal. Dan jangan sendirian dengan dia sampai kamu tahu dia yang sebenarnya dari orang-orang di sekitarmu hingga sampai ia benar-benar jadi orang yang aman untuk kamu kenali.\r\n\r\nSelalu hati-hati!\r\n\r\nNgobrol lagi,\r\n\r\nKak Maya\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "386a14a7cc1d49c9ab587501a25bb98e", 
   "published": null, 
-  "position": 3, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mstecharticle2", 
   "uuid": "bb78c5607efd473ea349a60e06390cfc"
