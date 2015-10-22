@@ -6,15 +6,17 @@
   "primary_category": "af87d9c5b59f4ba88e91010e80688b27", 
   "created_at": "2014-12-31T04:47:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-31T04:47:05+00:00", 
+  "modified_at": "2015-10-22T01:25:33.235745+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "53fa2cd14c0f4d08ab3f9ddcc0bdd15b"
+  ], 
   "id": null, 
   "content": "*Vivendo na pobreza e com oportunidades limitadas, muitas garotas lutam para encontrar o seu caminho. Esta \u00e9 a hist\u00f3ria de uma garota.* \r\n\r\nMeu nome \u00e9 Mabreidy, tenho 16 anos e vivo na Rep\u00fablica Dominicana, em uma ilha do Mar do Caribe. Minha cidade, Cabarete, pode parecer o para\u00edso na terra. V\u00eam pessoas do mundo inteiro aqui em busca das nossas praias e das nossas ondas para kitesurf famosas mundialmente. Os empregos no turismo s\u00e3o bons, mas n\u00e3o s\u00e3o muitos. Sem dinheiro nenhum, todos nos sentimos sem esperan\u00e7a. \r\n\r\nMeu pai era alco\u00f3latra, como muitas pessoas l\u00e1. Ele costumava bater na minha m\u00e3e. Meus irm\u00e3os e irm\u00e3s e eu sempre t\u00ednhamos medo de nos machucar durante suas explos\u00f5es de raiva.\r\n\r\nNa escola, eu lutava para fazer amigos, porque eu era t\u00e3o t\u00edmida e tinha medo de me aproximar das pessoas da minha idade. Eu at\u00e9 entrava em brigas com outras garotas e fazia birra em casa. Eu me sentia presa. Eu n\u00e3o tinha nenhum apoio para tentar algo novo, porque todos estavam muito preocupados com as m\u00e1s influ\u00eancias. Eu sempre ouvia: \"Cale a boca, Mabreidy\", \"N\u00e3o, Mabreidy\", \"Sil\u00eancio, Mabreidy\". \r\n\r\nMinha m\u00e3e me ouviu reclamando de n\u00e3o ter nada para fazer, ent\u00e3o ela me inscreveu em um acampamento de ver\u00e3o para meninas. Eu estava nervosa. Mas, desde o primeiro dia, n\u00f3s est\u00e1vamos nos divertindo e aprendendo todo tipo de coisas novas, como teatro e dan\u00e7as de Bollywood. Comecei a fazer um monte de amigos novos e estava finalmente sorrindo! A Mariposa DR Foundation nos ensinou a falar ingl\u00eas e a nadar, e tamb\u00e9m a nos defender. Eles tamb\u00e9m nos encorajaram a terminar nossa forma\u00e7\u00e3o, a praticar esportes e a ter um estilo de vida ativo.\r\n\r\nO programa n\u00e3o terminou com o acampamento de ver\u00e3o. Continuamos nos encontrando e aprendendo coisas novas. Aprendemos a n\u00e3o nos destruir com drogas e \u00e1lcool. Aprendi que a vida \u00e9 mais do que uma batalha. \r\n\r\nAgora eu sei que tenho mais op\u00e7\u00f5es do que ficar com homens que podem me bater ou me machucar.\r\n\r\nMeu relacionamento com meus pais tem melhorado muito, porque estou mais feliz e mais confiante. Meu papi at\u00e9 vai assistir \u00e0s minhas competi\u00e7\u00f5es de nata\u00e7\u00e3o. Ele me chama de \"guerreira da \u00e1gua\"! Eu at\u00e9 me tornei a primeira garota dominicana na minha cidade a aprender kitesurf! Agora eu me sinto t\u00e3o feliz quando estou no oceano. Eu n\u00e3o sabia que teria esse sonho. Agora eu entendo que posso controlar a mim mesma e as minhas emo\u00e7\u00f5es \u2013 dentro e fora d'\u00e1gua. \r\n\r\nEstou orgulhosa de ter tanto potencial e poder ajudar outras garotas a descobrir o delas. Quando eu ensino outras garotas a nadar, eu digo para elas esquecerem o que as pessoas podem dizer, mesmo se rirem delas. N\u00f3s temos o poder de criar nosso pr\u00f3prio futuro, de fazer coisas que nossas m\u00e3es nunca tiveram a chance de fazer. \r\n\r\nLeia mais sobre a hist\u00f3ria de Mabreidy em [grassrootsgirls.tumblr.com.][1] \r\n\r\n**VOC\u00ca LUTA PARA ENCONTRAR UM RUMO E EXPRESSAR AS EMO\u00c7\u00d5ES?Leia este artigo para obter dicas:** \r\n\r\n\r\n  [1]: http://grassrootsgirls.tumblr.com.", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Mabreidy", 
   "uuid": "21fb41d69b11492eb4f922f918f1f42d"
