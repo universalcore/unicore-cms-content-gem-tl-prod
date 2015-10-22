@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-05-20T07:05:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-05-20T07:05:14+00:00", 
+  "modified_at": "2015-10-22T10:37:46.600750+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e3eb3b3d0b6c409b8faeadd5fe1ac96c"
+  ], 
   "id": null, 
   "content": "Terkadang masyarakat mengajari kita untuk mencari pekerjaan dengan gaji selangit agar sukses, tapi uang nggak memberimu kebahagiaan. Orang-orang yang bahagia di dalam hidupnya menemukan apa yang mereka sangat cintai untuk lakukan, dan mereka membuatnya sebagai pekerjaan.\r\n\r\nKetika Maya Aldy masih kecil, banyak yang mengira ia akan menjadi seorang akuntan atau memulai karir di marketing. Ia punya rencana lain, rupanya Maya merasa nggak ada yang lebih menyenangkan ketimbang saat-saat menghabiskan waktu bersama Sang nenek di dapur. Dari situ, ia tau ia ingin memasak untuk hidupnya. Keluarganya sangat kaget begitu ia mengatakan ia akan belajar ke sekolah kuliner di New York, tapi ia nggak membiarkan semua itu menghentikannya.\r\n\r\nSekarang, Maya adalah seorang *chef* dan *co-owner* dari Otel Lobby, salah satu restoran terbaik di Jakarta. Maya berkata, \u201cSaat aku memutuskan untuk masuk sekolah kuliner, aku nggak tau apa aku akan jadi sukses atau malah gagal. Yang aku tau adalah, aku akan menyesal kalo nggak pernah mencoba. Itu adalah keputusan terbaik yang aku buat karena sekarang aku melakukan apa yang aku cintai setiap hari. Bekerja nggak terasa seperti bekerja ketika kalian melakukan hal yang kalian sukai.\u201d\r\n\r\nApa kamu menyukai memasak atau memanggang kue? Apa teman-teman dan keluarga kalian memintamu untuk membantu berhitung karena kamu pandai dalam hal itu? Sempurna, kamu mungkin sudah menemukan karir masa depanmu! Melakukan sesuatu yang amat kamu senangi akan membuatmu nggak merasa seperti sedang bekerja sama sekali.\r\n\r\nMembuat mata pencaharian dari hal yang memang kalian cintai akan menjadi mudah dan kalian nggak perlu banyak pemasokan atau uang yang besar untuk memulainya. Dimulai dari hal sederhana, dan saat kalian bekerja keras dan meraih kesuksesan kecil, usahamu akan berkembang. Kamu bisa memulainya dari rumah, yang berarti kamu nggak perlu kantor yang mewah atau tempat kerja, kamu bisa memulainya dengan mengajak teman-teman dan keluarga ikutan juga!\r\n\r\nTeruslah belajar di sekolah dan pilih jalur pendidikan yang cocok untukmu \u2014 untuk beberapa pekerjaan, kalian perlu gelar sarjana atau sertifikasi spesial. Dan untuk hampir seluruh pekerjaan, kalian memerlukan ijazah SMA, jadi belajarlah dengan tekun!\r\n\r\nKarir adalah sesuatu yang unik dan berbeda untuk tiap orang. Hal yang diinginkan dari setiap orang adalah ketika karir mereka berhasil, baik secara finansial maupun emosinal. Semua ingin memiliki pekerjaan dan semuanya ingin punya kehidupan yang bahagia dari itu.\r\n\r\nApalah artinya uang kalau kamu benci pekerjaan yang kamu lakukan siang dan malam? Kalian masih muda dan punya banyak waktu untuk memikirkan minat kalian, jadi jangan takut kalo kalian masih ragu. Gunakan waktu ini untuk menemukan banyak pilihan dan ketika kamu menemukan apa yang kamu cintai, kamu akan tau. Dengan kerja keras dan kemauan tinggi, kamu bisa merubah hobi menjadi masa depanmu!\r\n\r\n**Gak mau ketinggalan cerita seru kan? Makanya cari tau lebih lanjut di:**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "e6f15722e1304393baedc62393a0d814", 
   "published": null, 
-  "position": 28, 
+  "position": 73, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "yourhobbycanbeyourfuture", 
   "uuid": "1fa971e8bcba481a9cae3f2be630f014"
