@@ -6,15 +6,17 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T04:20:35+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T04:20:35+00:00", 
+  "modified_at": "2015-10-22T10:37:41.894322+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "053a04a047444eeb9b35d71bc9ec3f59"
+  ], 
   "id": null, 
   "content": "*Gadis remaja di seluruh dunia biasanya mendapatkan menstruasi mereka di usia antara 12 - 14 tahun, tapi mereka bisa mendapatkannya lebih awal atau lebih lambat. Mendapatkan menstruasi bisa betul-betul mengejutkan atau menakutkan. Inilah cerita seorang gadis remaja.*\r\n\r\nNamaku Deepa. Aku berusia 13 tahun dan tinggal di India. Aku mendapatkan menstruasi pertamaku bulan lalu. Waktu aku melihat darah di celana dalamku, aku kaget, tapi ngga takut karena ibu beri tahu aku kalau aku bakal mulai menstruasi waktu berusia sekitar 12 tahun.\r\n\r\nAku cuci celana dalamku dan beri tahu ibuku apa yang terjadi. Dia senang sekali anak perempuannya sudah jadi seorang wanita! Dia beri aku sebungkus pembalut dan menunjukkan ke aku bagaimana memasang pembalut di celana dalamku. Itu adalah pengalaman baru buat aku, tapi aku bisa melakukannya dengan BAIK sepanjang sisa minggu itu.\r\n\r\nLalu, sebulan kemudian waktu aku sedang di sekolah. Hari itu dimulai seperti biasanya sampai perutku mulai merasa aneh. Sepertinya perutku kram. Aku pikir aku bakal sakit dan ngga tahu kalau itu adalah tanda kalau aku bakal mendapatkan menstruasi. Menstruasiku datang di hari itu dan aku ngga siap.\r\n\r\nSore harinya, aku harus pulang sekolah lebih awal karena ada noda darah di rok dan tempat dudukku. Aku rasa semua orang pasti melihatnya. Aku malu sekali. Aku ngga mau kembali ke sekolah lagi.\r\n\r\nWaktu aku sampai di rumah, ibuku mengajakku duduk dan bilang kalau kakakku juga pernah mengalami kejadian yang sama. Dia bilang kalau kita bisa pastikan itu ngga bakal terjadi lagi karena aku bisa melacak menstruasiku dan tahu kapan menstruasiku bakal datang lagi di bulan berikutnya, karena menstruasiku datang setiap 28 hari.\r\n\r\nKatanya, \"Hitung hari pertama kamu menstruasi sebagai Hari ke-1. Menstruasinya kamu bisa jadi ada selama 5 hari. Kalau kamu terus hitung harinya, kamu bakal tahu kapan kamu dapat menstruasi lagi.. ya, di hari ke-28 itu. Terus, kamu mulai lagi dan hitung hari pertama kamu dapat menstruasi itu hari ke-1 kamu. Buat kebanyakan wanita, siklus menstruasi itu antara 21 sampai 35 hari. Kita bakal tandai di kalendermu.\"\r\n\r\nAku kembali ke sekolah besoknya dan ngga ada seorang pun yang bicarakan tentang itu. Ngga ada seorang pun yang kelihatannya sadar atau peduli. Betul-betul satu pelajaran buat aku, tapi aku berterima kasih sekali sama ibuku, buat kalender dan informasinya.\r\n\r\n**Sudahkah kamu mulai menstruasi? Inilah beberapa fakta yang kamu perlu tahu:**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 59, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "iwasshamedatschool", 
   "uuid": "f035c0ceb9654977b07b97f7946ef330"
