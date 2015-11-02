@@ -6,12 +6,12 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-08-06T08:33:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-22T10:37:49.278799+00:00", 
+  "modified_at": "2015-11-02T06:33:17.803900+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "453369159ab64ab48f50898f40582fe4", 
   "published": null, 
-  "position": 42, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "goingnutsoverpeanuts", 
   "uuid": "53122dac015744d08212047312959ddd"
