@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": " Do you know the truth about drugs and alcohol? ", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-06-12T06:34:14.646213+00:00", 
+  "created_at": "2016-06-12T06:34:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-06-12T06:34:14.646394+00:00", 
+  "modified_at": "2016-06-12T06:39:23.863871+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-truth-about-drugs-and-alcohol", 
   "uuid": "8573305c25ae4fef83b75bfb1312c28e"
